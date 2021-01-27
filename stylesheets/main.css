@@ -57,6 +57,24 @@
 
 .latin p{
   color: white;
-  padding: 20px 35px;
+  padding: 5px 35px;
   font-size: 15px;
+}
+
+#row{
+  display: flex;
+  background-color: lightblue;
+ 
+}
+
+.column {
+  
+  margin: auto;
+  width: 350px;
+  height: 250px;
+  overflow: hidden;
+  padding-top: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+  padding-bottom: 3%;
 }
